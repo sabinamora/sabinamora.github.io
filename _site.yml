@@ -1,0 +1,22 @@
+name: "Sabina Mora"
+output_dir: "."
+navbar:
+  title: "Sabina Mora"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "Work"
+      href: work.html
+    - text: "Services"
+      href: services.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: sabina.mora@utexas.edu
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/sabinamora
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/sabina-mora-61a51232/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

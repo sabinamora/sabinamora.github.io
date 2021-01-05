@@ -1,0 +1,36 @@
+---
+title: " "
+pagetitle: "Sabina Mora"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+**Policy and Planning**
+
+* Policy development and research 
+* Development of legislation 
+* Development of organizational work plans, strategies and associated performance measures 
+
+**Public Affairs & Outreach** 
+
+* Help develop community partnerships, including coordinating between local businesses, nonprofits, neighborhood associations, and others to support programs and initiatives
+* Development of outreach plans and execution of public outreach and community engagement strategies
+* Develop website content, newsletters, social media outreach and content, and media releases 
+* Coordinate events such as panels, workshops, and public meetings
+* Stakeholder management for plans, projects, and initiatives 
+
+**Grants and Contract Management** 
+
+* Guidance through state, local, and federal regulatory processes with a focus on New York, Texas and California
+* Contract and grant management and reporting 
+* New grant or loan program development such as writing program guidelines and setting up administration framework
+* Prepare an application for submittal to a funding source 
+* Implementation and management of economic development programs
+
+**Technical Assistance** 
+
+* GIS Services – maps and geographic analysis 
+* Community assessments
+* Economic and demographic profiles and needs assessments 
+* Survey development, data analysis and visualization
+

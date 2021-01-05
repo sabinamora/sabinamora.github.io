@@ -1,0 +1,15 @@
+---
+title: " "
+pagetitle: "Sabina Mora"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/sabina_headshot_1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+My interest is in providing professional services targeted to high performing organizations that need extra capacity to meet special deadlines or take-on challenging projects. 
+
+My goal is to strengthen your organizational capacity through data driven approaches and authentic stakeholder engagement. I will identify and execute short-term, achievable steps within your long-term strategy. 
+
+My focus has been on equitable and inclusive neighborhood economic development as well as downtown revitalization as a strategy to promote city-wide economic development (see about). 
+
