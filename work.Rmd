@@ -5,20 +5,22 @@ pagetitle: "Sabina Mora"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+&nbsp;  
+
 City of Austin – Senior Planner
 
-* Imagine Austin Centers and Corridors: North Lamar Community Inventory (2019)
+* [Imagine Austin Centers and Corridors: North Lamar Community Inventory (2019)](./files/NLamar.pdf)
 
 Empire State Development – Project Manager 
 
-* Greater Binghamton Fund Strategic Investment Plan (2018)
+* [Greater Binghamton Fund Strategic Investment Plan (2018)](./files/GBF_SIP.pdf)
 
 Capitalize Albany Corporation – Senior Economic Developer
 
-* City of Albany Industrial Development Agency 2016 Year in Review
-* City of Albany Industrial Development Agency 2015 Annual Report 
+* [City of Albany Industrial Development Agency 2016 Year in Review](./files/AlbID_A2016.pdf)
+* [City of Albany Industrial Development Agency 2015 Annual Report](./files/AlbIDA_2015.pdf)
 
 City of Binghamton – Economic Development Specialist 
 
-* Binghamton Local Development Corporation Public Investment & Leverage 2006-2012
+* [Public Investment & Leverage 2006-2012](./files/Maps_Bing.pdf)
 * [Downtown Parking & Street Map](./files/bing_dt_map.pdf)

@@ -5,11 +5,13 @@ pagetitle: "Sabina Mora"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+&nbsp;  
+
+
 <img src="images/sabina_headshot_1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-My interest is in providing professional services targeted to high performing organizations that need extra capacity to meet special deadlines or take-on challenging projects. 
+My interest is in providing professional services targeted to high performing organizations that need additional capacity to meet special deadlines and take-on challenging projects. 
 
-My goal is to strengthen your organizational capacity through data driven approaches and authentic stakeholder engagement. I will identify and execute short-term, achievable steps within your long-term strategy. 
+My goal is to strengthen organizational capacity through data driven approaches and authentic stakeholder engagement. I will identify and execute short-term, achievable steps within your long-term strategy. 
 
-My focus has been on equitable and inclusive neighborhood economic development as well as downtown revitalization as a strategy to promote city-wide economic development (see about). 
-
+My focus is on neighborhood economic development and downtown revitalization strategies, small business assistance and incentives, and increasing the capacity and transparency of economic development organizations. 
