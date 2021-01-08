@@ -7,7 +7,7 @@ pagetitle: "Sabina Mora"
 
 &nbsp;  
 
-
+ 
 <img src="images/sabina_headshot_1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 My interest is in providing professional services targeted to high performing organizations that need additional capacity to meet special deadlines and take-on challenging projects. 
