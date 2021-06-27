@@ -11,7 +11,7 @@ navbar:
       href: services.html
   right:
     - icon: fa-envelope fa-lg
-      href: sabina.mora@utexas.edu
+      href: mailto:sabina.mora@utexas.edu
     - icon: fa-twitter fa-lg
       href: https://twitter.com/sabinamora
     - icon: fa-linkedin fa-lg
