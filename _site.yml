@@ -15,7 +15,7 @@ navbar:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/sabinamora
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/sabina-mora-61a51232/
+      href: https://www.linkedin.com/in/sabina-mora/
 output:
   html_document:
     theme: paper
