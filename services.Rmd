@@ -10,17 +10,18 @@ pagetitle: "Sabina Mora"
 **Policy and Planning**
 
 * Policy/legislation development and research 
-* Development of organizational work plans and associated performance measures
+* Development of organizational work plans
 * Strategy and plan development
 * Implementation of economic development plans and programs
+* Performance measurement, evaluation, and monitoring 
 
 **Public Affairs & Outreach** 
 
-* Develop community partnerships to support programs and initiatives
-* Development of outreach plans and execution of public outreach and community engagement strategies
+* Stakeholder identification and analysis
+* Develop community engagement strategies
+* Develop and execute public outreach plans
 * Develop website content, newsletters, social media, and media releases 
 * Coordinate events such as panels, workshops, and public meetings
-* Stakeholder engagement 
 
 **Grants and Contract Management** 
 
@@ -33,6 +34,7 @@ pagetitle: "Sabina Mora"
 
 * GIS Services – maps and geographic analysis 
 * Community assessments
-* Economic and demographic profiles and needs assessments 
-* Survey development, data analysis and visualization
+* Economic and demographic profiles
+* Needs assessments 
+* Survey development, data collection and analysis
 
