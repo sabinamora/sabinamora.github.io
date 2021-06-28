@@ -1,6 +1,6 @@
 ---
 title: " "
-pagetitle: "Sabina Mora"
+pagetitle: "Sabina Mora, CEcD |   "
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -10,16 +10,15 @@ pagetitle: "Sabina Mora"
  
 <img src="images/sabina_headshot_1.jpg" style="width:25%; border:10px solid; margin-right: 40px" align="left">
 <p align="right">
-I provide professional services to organizations that need additional capacity to meet special deadlines and take-on challenging projects.
+I provide professional services to organizations that need additional capacity to meet special deadlines or take on challenging projects.
 
-My approach is to strengthen organizational capacity by providing expert technical assistance and authentic stakeholder engagement. I will identify and execute short-term, achievable steps that help meet your organization’s long-term goals.
-
-My focus areas include:
+My approach is to identify and execute short-term, achievable steps that help meet your organization’s long-term goals.
+I work with you to strengthen organizational capacity by providing expert technical assistance and authentic stakeholder engagement in six focus areas:
 
 | - Downtown and neighborhood economic development
 | - Economic revitalization strategies
-| - Small business assistance and incentive
-| - Business recruitment and expansion program
+| - Small business assistance and incentives
+| - Business recruitment and expansion programs
 | - Improving the transparency and performance of economic development organizations
 | - Operational support for economic development organizations
 

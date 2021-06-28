@@ -1,18 +1,18 @@
 ---
 title: " "
-pagetitle: "Sabina Mora"
+pagetitle: "Sabina Mora, CEcD"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 &nbsp;  
 
-I have twelve years professional experience in local government and economic development at the state, regional, and municipal levels in New York, Texas, and California. I’m a Certified Economic Developer (CEcD) and bilingual in English & Spanish. 
+I'm a Certified Economic Developer (CEcD) with twelve years of professional experience in local government and economic development at the state, regional, and municipal levels in New York, Texas, and California. My areas of focus have been downtown and neighborhood development, economic development planning, small business assistance, business expansion and attraction, and economic development organization transparency and performance.
 
-I have worked as a Senior Planner for the City of Austin, Senior Economic Development Specialist for the City of Albany's economic development organization (Capitalize Albany), Economic Development Project Manager for the New York State’s economic development agency (Empire State Development), and Economic Development Specialist for the City of Binghamton.
+I have worked as a Senior Planner for the City of Austin, TX, Senior Economic Development Specialist for the City of Albany, NY economic development organization (Capitalize Albany), Loans & Grants Project Manager for New York State’s economic development agency (Empire State Development), and Economic Development Specialist for the City of Binghamton, NY.
 
-I graduated from the University of Texas School of Architecture with a MS in Community and Regional Planning and from the University of Texas LBJ School of Public Affairs with a Master of Public Affairs.
+I graduated from the University of Texas School of Architecture with a MS in Community and Regional Planning and from the University of Texas LBJ School of Public Affairs with a Master of Public Affairs. I completed the International City/County Management Association's Local Government Management Fellowship (LGMF) in the City of Evanston, IL. 
+I’m bilingual in English & Spanish. 
 
-My areas of focus have been downtown and neighborhood development, economic development planning, small business assistance, business expansion and attraction, and economic development organization transparency and performance.
  
 My full resume is available [here.](./files/Mora_resume_2020.pdf)
